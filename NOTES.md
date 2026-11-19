@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-11-15T14:00:00.825Z
+Last updated: 2026-11-19T14:00:01.223Z
 
 ## Progress
 
-- implement logging and monitoring
+- add environment variable support
