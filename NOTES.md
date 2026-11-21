@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-11-19T14:00:01.223Z
+Last updated: 2026-11-21T14:00:00.860Z
 
 ## Progress
 
-- add environment variable support
+- handle null pointer exception
